@@ -15,15 +15,15 @@ You will need to have python, conda installed. For instructions on installing Py
 
 ### Installing
 
-<!-- Here we use conda to manage the environment -->
+Here we use conda to manage the environment
 ```
 conda create -n pygame_env python-python's verion
 ```
-<!-- Then we activate the environment -->
+Then we activate the environment
 ```
 conda activate pygame_env
 ```
-<!-- We need to setup some libraries (pygame, pytorch, matplotlib,...) -->
+We need to setup some libraries (pygame, pytorch, matplotlib,...)
 ```
 pip install pygame
 pip install torch torchvision
@@ -32,8 +32,8 @@ pip install matplotlib ipython
 
 ### How to Play
 
-<!-- You open the folder that contain file agent.py, open cmd from that folder-->
-<!-- Activate the environment, and run the AI training -->
+You open the folder that contain file agent.py, open cmd from that folder
+Activate the environment, and run the AI training
 ```
 conda activate pygame_env
 python agent.py
