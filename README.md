@@ -42,7 +42,9 @@ python agent.py
 ## Authors
 
 * **Tran Thai Phuc** - *Initial work* - [PhucTran125](https://github.com/PhucTran125)
-
+* **Pham Thai Hung**
+* **Nguyen Trinh Vu**
+* **Ha Ngoc Hung**
 ## Acknowledgments
 
 * Inspired by [Thomas Hikaru Clark's tutorial](https://towardsdatascience.com/training-a-snake-game-ai-a-literature-review-1cdddcd1862f)
